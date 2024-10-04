@@ -1,0 +1,32 @@
+[
+  {
+    "name":"ZX10R",
+    "brand":"Kawasaki ZX10R 4 สูบเรียง DOHC 16 วาล์ว ปริมาตรกระบอกสูบ: 998 ซีซี 200 แรงม้า เกียร์: 6 สปีด น้ำหนัก: ประมาณ 207 กิโลกรัม ความสูงเบาะ: 835 มม. ถังน้ำมัน: 17 ลิตร",
+    "imag":"https://www.peeramotosports.co.th/wp-content/uploads/2022/02/ninjazx10r-2021-ebony-01-829x467.jpg",
+    "price":"885,000"
+  },
+  {
+    "name":"CBR1000RR-R",
+    "brand":"Honda CBR1000RR-R Fireblade (หรือเรียกกันว่า Triple R) 4 สูบเรียง DOHC 16 วาล์ว ปริมาตรกระบอกสูบ: 999.9 ซีซี 214 แรงม้า เกียร์: 6 สปีด พร้อมระบบ Quick Shifter น้ำหนัก: ประมาณ 201 กิโลกรัม ความสูงเบาะ: 830 มม. ระยะฐานล้อ: 1,455 มม.",
+    "imag":"https://media.lhms.co.th/images/motorcycle/colors/32bb90e8976aab5298d5da10fe66f21d/vNKDXqVTRZ9W9pbhIjw8WktaonpdZZQoOAQCreEH.jpg",
+    "price":"999,000"
+  },
+  {
+    "name":"YZF-R1",
+    "brand":"Yamaha YZF-R1 4 สูบเรียง DOHC 16 วาล์ว ปริมาตรกระบอกสูบ: 998 ซีซี 200 แรงม้า เกียร์: 6 สปีด พร้อมระบบ Quick Shift System น้ำหนัก: ประมาณ 201 กิโลกรัม ความสูงเบาะ: 855 มม. ถังน้ำมัน: 17 ลิตร",
+    "imag":"https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1/2024-Yamaha-YZF1000R1-EU-Icon_Blue-360-Degrees-001-03_Mobile.jpg",
+    "price":"899,000"
+  },
+  {
+    "name":"GSX-R1000R",
+    "brand":"Suzuki GSX-R1000R 4 สูบเรียง DOHC 16 วาล์ว ปริมาตรกระบอกสูบ: 999.8 ซีซี 199 แรงม้า เกียร์: 6 สปีด พร้อมระบบ Quick Shift System น้ำหนัก: ประมาณ 203 กิโลกรัม ความสูงเบาะ: 825 มม. ถังน้ำมัน: 16 ลิตร",
+    "imag":"https://www.motowish.com/wp-content/uploads/2023/08/2024-Suzuki-GSX-R1000-1.jpg",
+    "price":"811,000"
+  },
+  {
+    "name":"S1000RR",
+    "brand":"BMW S1000RR 4 สูบเรียง DOHC 16 วาล์ว ปริมาตรกระบอกสูบ: 999 ซีซี 205 แรงม้า เกียร์: 6 สปีด พร้อมระบบ Quick Shift น้ำหนัก: ประมาณ 197 กิโลกรัม ความสูงเบาะ: 824 มม. ถังน้ำมัน: 16.5 ลิตร",
+    "imag":"https://cdn.autopapo.com.br/box/uploads/2020/08/26181924/p90327365_highres_bmw-s-1000-rr-with-m.jpg",
+    "price":"890,000"
+  }
+]
